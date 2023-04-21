@@ -1,8 +1,8 @@
 {
     "name":"Car Token",
     "description":"This is Car NFT,Buy it now!",
-    "image":"",
-    "external_url":"",
+    "image":"https://github.com/Kajal-Singh3/CarNFT/images/CAR1.png",
+    "external_url":"https://github.com/Kajal-Singh3/CarNFT",
     "attributes":[
         {
         "trait_type":"Artifact",
